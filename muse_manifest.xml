@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617485622211">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617485939586">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="184637930" ref="index"/>
@@ -18,7 +18,7 @@
       <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
-    <file name="me.jpg" crc="188764370" seo="true" ref="index:smart-phone-version">
+    <file name="me.jpg" crc="188764370" seo="true" ref="smart-phone-version">
       <caption webpage="index" alt=""/>
       <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
@@ -33,7 +33,10 @@
       <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
+    <file name="me402x402.jpg" crc="4102420012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="139384713" seo="true" mt="1617483524031" redirect="true"/>
-  <file name="smart-phone-version.html" crc="274453473" seo="true" mt="1617485605827" redirect="true"/>
+  <file name="index.html" crc="20702742" seo="true" mt="1617485921693" redirect="true"/>
+  <file name="smart-phone-version.html" crc="4243401354" seo="true" mt="1617485931340" redirect="true"/>
 </manifest>
