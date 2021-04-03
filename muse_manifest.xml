@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617484767585">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617485063759">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="184637930" ref="index"/>
-    <file name="smart-phone-version.css" crc="3864718397" ref="smart-phone-version"/>
+    <file name="smart-phone-version.css" crc="417133319" ref="smart-phone-version"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:smart-phone-version"/>
@@ -18,7 +18,7 @@
       <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
-    <file name="me.jpg" crc="343651603" seo="true" ref="index:smart-phone-version">
+    <file name="me.jpg" crc="188764370" seo="true" ref="index:smart-phone-version">
       <caption webpage="index" alt=""/>
       <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
@@ -35,5 +35,5 @@
     </file>
   </folder>
   <file name="index.html" crc="139384713" seo="true" mt="1617483524031" redirect="true"/>
-  <file name="smart-phone-version.html" crc="517048583" seo="true" mt="1617484760681" redirect="true"/>
+  <file name="smart-phone-version.html" crc="3795703084" seo="true" mt="1617485050943" redirect="true"/>
 </manifest>
