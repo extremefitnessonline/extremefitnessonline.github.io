@@ -1,35 +1,39 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617481989834">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617484661501">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3917232091" ref="index"/>
-    <file name="second-try.css" crc="182456920" ref="second-try"/>
+    <file name="index.css" crc="184637930" ref="index"/>
+    <file name="smart-phone-version.css" crc="309171090" ref="smart-phone-version"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:second-try"/>
-    <file name="museutils.js" crc="3803043152" ref="index:second-try"/>
-    <file name="whatinput.js" crc="86476730" ref="index:second-try"/>
-    <file name="museconfig.js" crc="380897831" ref="index:second-try"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:second-try"/>
-    <file name="require.js" crc="4157109226" ref="index:second-try"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:smart-phone-version"/>
+    <file name="museutils.js" crc="3803043152" ref="index:smart-phone-version"/>
+    <file name="whatinput.js" crc="86476730" ref="index:smart-phone-version"/>
+    <file name="museconfig.js" crc="380897831" ref="index:smart-phone-version"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:smart-phone-version"/>
+    <file name="require.js" crc="4157109226" ref="index:smart-phone-version"/>
   </folder>
   <folder name="images">
-    <file name="下載.jpg" crc="435912117" seo="true" ref="index:second-try">
+    <file name="下載.jpg" crc="435912117" seo="true" ref="index:smart-phone-version">
       <caption webpage="index" alt=""/>
+      <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
-    <file name="me.jpg" crc="343651603" seo="true" ref="index:second-try">
+    <file name="me.jpg" crc="343651603" seo="true" ref="index:smart-phone-version">
       <caption webpage="index" alt=""/>
+      <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
-    <file name="backfat-video.jpg" crc="68341644" seo="true" ref="index:second-try">
+    <file name="backfat-video.jpg" crc="68341644" seo="true" ref="index:smart-phone-version">
       <caption webpage="index" alt=""/>
+      <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
-    <file name="nutritonnwellness.png" crc="4062395290" seo="true" ref="index:second-try">
+    <file name="nutritonnwellness.png" crc="4161564509" seo="true" ref="index:smart-phone-version">
       <caption webpage="index" alt=""/>
+      <caption webpage="smart-phone-version" alt=""/>
       <caption webpage="second-try" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3773116135" seo="true" mt="1617481415626" redirect="true"/>
-  <file name="second-try.html" crc="406816151" seo="true" mt="1617480891656" redirect="true"/>
+  <file name="index.html" crc="139384713" seo="true" mt="1617483524031" redirect="true"/>
+  <file name="smart-phone-version.html" crc="349928869" seo="true" mt="1617484647271" redirect="true"/>
 </manifest>
