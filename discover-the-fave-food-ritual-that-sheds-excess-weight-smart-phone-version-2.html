@@ -20,6 +20,30 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="stylesheet" type="text/css" href="css/discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2.css?crc=4053763602" id="pagesheet"/>
    </head>
  <body>
+NSURL *inputURL = <the URL to open>;
+NSString *scheme = inputURL.scheme;
+
+// Replace the URL Scheme with the Chrome equivalent.
+NSString *chromeScheme = nil;
+if ([scheme isEqualToString:@"http"]) {
+  chromeScheme = @"googlechrome";
+} else if ([scheme isEqualToString:@"https"]) {
+  chromeScheme = @"googlechromes";
+}
+
+// Proceed only if a valid Google Chrome URI Scheme is available.
+if (chromeScheme) {
+  NSString *absoluteString = [inputURL absoluteString];
+  NSRange rangeForScheme = [absoluteString rangeOfString:@":"];
+  NSString *urlNoScheme =
+      [absoluteString substringFromIndex:rangeForScheme.location];
+  NSString *chromeURLString =
+      [chromeScheme stringByAppendingString:urlNoScheme];
+  NSURL *chromeURL = [NSURL URLWithString:chromeURLString];
+
+  // Open the URL with Chrome.
+  [[UIApplication sharedApplication] openURL:chromeURL];
+}
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="clearfix colelem" id="pu662"><!-- group -->
