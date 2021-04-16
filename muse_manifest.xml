@@ -1,70 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="extremefitnessonline.github.io" resolutions="1x" timestamp="1617854829703">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1618587286534">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3818527509" ref="index"/>
-    <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version.css" crc="457329729" ref="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version"/>
-    <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2.css" crc="4146571764" ref="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2"/>
-    <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4.css" crc="4045209331" ref="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4"/>
-    <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3.css" crc="4055108415" ref="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3"/>
-    <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5.css" crc="173185391" ref="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
+    <file name="index.css" crc="284124541" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
-    <file name="museutils.js" crc="3803043152" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
-    <file name="whatinput.js" crc="86476730" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
-    <file name="museconfig.js" crc="380897831" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
-    <file name="require.js" crc="4157109226" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="下載.jpg" crc="435912117" seo="true" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5">
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="smart-phone-version" alt=""/>
-      <caption webpage="second-try" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version" alt=""/>
-    </file>
-    <file name="me.jpg" crc="188764370" seo="true" ref="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5">
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="smart-phone-version" alt=""/>
-      <caption webpage="second-try" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version" alt=""/>
-    </file>
-    <file name="backfat-video.jpg" crc="68341644" seo="true" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5">
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="smart-phone-version" alt=""/>
-      <caption webpage="second-try" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version" alt=""/>
-    </file>
-    <file name="nutritonnwellness.png" crc="4161564509" seo="true" ref="index:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4:discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5">
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="smart-phone-version" alt=""/>
-      <caption webpage="second-try" alt=""/>
-      <caption webpage="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version" alt=""/>
-    </file>
-    <file name="me402x402.jpg" crc="4102420012" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-  </folder>
-  <file name="index.html" crc="257054512" seo="true" mt="1617486116307" redirect="true"/>
-  <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version.html" crc="4193723766" seo="true" mt="1617854820424" redirect="true"/>
-  <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-2.html" crc="498279490" seo="true" mt="1617854783641" redirect="true"/>
-  <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-3.html" crc="4034856148" seo="true" mt="1617854768894" redirect="true"/>
-  <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-4.html" crc="4052130347" seo="true" mt="1617854687363" redirect="true"/>
-  <file name="discover-the-fave-food-ritual-that-sheds-excess-weight-smart-phone-version-5.html" crc="324729162" seo="true" mt="1617854753434" redirect="true"/>
+  <file name="index.html" crc="300481424" seo="true" mt="1618586645318" redirect="true"/>
 </manifest>
